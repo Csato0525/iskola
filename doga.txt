@@ -1,0 +1,53 @@
+py -m pip install --user --upgrade pip
+py -m pip install --user virtualenv
+py -m pip install --user -U Django
+
+py -m virtualenv -p python3 VENV
+.\VENV\Scripts\activate
+
+Set-ExecutionPolicy Unrestricted -Scope Process
+
+py -m pip install --upgrade pip
+py -m pip install django
+py -m pip install gunicorn
+py -m pip install dj-database-url
+py -m pip install whitenoise
+py -m pip install django-rest-framework
+
+py -m django startproject PROJEKT
+
+manage.py könyvtárában
+py manage.py makemigrations
+py manage.py migrate
+
+py manage.py createsuperuser
+
+py .\manage.py startapp APP
+
+from APP.views import bigyoview
+
+urls
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('bigyo/', bigyoview),
+]
+
+wiews
+
+from django.shortcuts import render
+
+# Create your views here.
+
+def bigyoview (request):
+    return render(request, 'bigyotemplate.html', {'a': 7 })
+
+APP
+
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <!--
+       HTML komment
+    -->
+
+    <script src="{% static 'js/script.js' %}"></script>

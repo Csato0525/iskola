@@ -1,0 +1,7 @@
+C:\Users\Csató Csege Károly\Desktop\csege\Egész_számok\Egész_számok\bin\Debug\Egész_számok.exe.config
+C:\Users\Csató Csege Károly\Desktop\csege\Egész_számok\Egész_számok\bin\Debug\Egész_számok.exe
+C:\Users\Csató Csege Károly\Desktop\csege\Egész_számok\Egész_számok\bin\Debug\Egész_számok.pdb
+C:\Users\Csató Csege Károly\Desktop\csege\Egész_számok\Egész_számok\obj\Debug\Egész_számok.csprojAssemblyReference.cache
+C:\Users\Csató Csege Károly\Desktop\csege\Egész_számok\Egész_számok\obj\Debug\Egész_számok.csproj.CoreCompileInputs.cache
+C:\Users\Csató Csege Károly\Desktop\csege\Egész_számok\Egész_számok\obj\Debug\Egész_számok.exe
+C:\Users\Csató Csege Károly\Desktop\csege\Egész_számok\Egész_számok\obj\Debug\Egész_számok.pdb

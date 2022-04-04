@@ -1,0 +1,7 @@
+C:\Users\Csató Csege Károly\Desktop\csege\család\család\bin\Debug\család.exe.config
+C:\Users\Csató Csege Károly\Desktop\csege\család\család\bin\Debug\család.exe
+C:\Users\Csató Csege Károly\Desktop\csege\család\család\bin\Debug\család.pdb
+C:\Users\Csató Csege Károly\Desktop\csege\család\család\obj\Debug\család.csprojAssemblyReference.cache
+C:\Users\Csató Csege Károly\Desktop\csege\család\család\obj\Debug\család.csproj.CoreCompileInputs.cache
+C:\Users\Csató Csege Károly\Desktop\csege\család\család\obj\Debug\család.exe
+C:\Users\Csató Csege Károly\Desktop\csege\család\család\obj\Debug\család.pdb

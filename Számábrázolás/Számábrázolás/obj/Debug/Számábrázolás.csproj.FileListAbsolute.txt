@@ -1,0 +1,7 @@
+C:\Users\Csató Csege Károly\Desktop\csege\Számábrázolás\Számábrázolás\bin\Debug\Számábrázolás.exe.config
+C:\Users\Csató Csege Károly\Desktop\csege\Számábrázolás\Számábrázolás\bin\Debug\Számábrázolás.exe
+C:\Users\Csató Csege Károly\Desktop\csege\Számábrázolás\Számábrázolás\bin\Debug\Számábrázolás.pdb
+C:\Users\Csató Csege Károly\Desktop\csege\Számábrázolás\Számábrázolás\obj\Debug\Számábrázolás.csprojAssemblyReference.cache
+C:\Users\Csató Csege Károly\Desktop\csege\Számábrázolás\Számábrázolás\obj\Debug\Számábrázolás.csproj.CoreCompileInputs.cache
+C:\Users\Csató Csege Károly\Desktop\csege\Számábrázolás\Számábrázolás\obj\Debug\Számábrázolás.exe
+C:\Users\Csató Csege Károly\Desktop\csege\Számábrázolás\Számábrázolás\obj\Debug\Számábrázolás.pdb

@@ -1,0 +1,7 @@
+C:\Users\Csató Csege Károly\Desktop\csege\lánclistákC++++ban\lánclistákC++++ban\bin\Debug\lánclistákC++++ban.exe.config
+C:\Users\Csató Csege Károly\Desktop\csege\lánclistákC++++ban\lánclistákC++++ban\bin\Debug\lánclistákC++++ban.exe
+C:\Users\Csató Csege Károly\Desktop\csege\lánclistákC++++ban\lánclistákC++++ban\bin\Debug\lánclistákC++++ban.pdb
+C:\Users\Csató Csege Károly\Desktop\csege\lánclistákC++++ban\lánclistákC++++ban\obj\Debug\lánclistákC++++ban.csprojAssemblyReference.cache
+C:\Users\Csató Csege Károly\Desktop\csege\lánclistákC++++ban\lánclistákC++++ban\obj\Debug\lánclistákC++++ban.csproj.CoreCompileInputs.cache
+C:\Users\Csató Csege Károly\Desktop\csege\lánclistákC++++ban\lánclistákC++++ban\obj\Debug\lánclistákC++++ban.exe
+C:\Users\Csató Csege Károly\Desktop\csege\lánclistákC++++ban\lánclistákC++++ban\obj\Debug\lánclistákC++++ban.pdb

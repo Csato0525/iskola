@@ -1,0 +1,7 @@
+C:\Users\Csató Csege Károly\Desktop\csege\BinárisFa\BinárisFa\bin\Debug\BinárisFa.exe.config
+C:\Users\Csató Csege Károly\Desktop\csege\BinárisFa\BinárisFa\bin\Debug\BinárisFa.exe
+C:\Users\Csató Csege Károly\Desktop\csege\BinárisFa\BinárisFa\bin\Debug\BinárisFa.pdb
+C:\Users\Csató Csege Károly\Desktop\csege\BinárisFa\BinárisFa\obj\Debug\BinárisFa.csprojAssemblyReference.cache
+C:\Users\Csató Csege Károly\Desktop\csege\BinárisFa\BinárisFa\obj\Debug\BinárisFa.csproj.CoreCompileInputs.cache
+C:\Users\Csató Csege Károly\Desktop\csege\BinárisFa\BinárisFa\obj\Debug\BinárisFa.exe
+C:\Users\Csató Csege Károly\Desktop\csege\BinárisFa\BinárisFa\obj\Debug\BinárisFa.pdb

@@ -1,0 +1,9 @@
+
+.grid-countainer{
+    display: grid;
+    grid-template-columns: 300px 200px;
+    gap: 50px;
+    grid-auto-rows: 3em;
+    justify-content: center;
+    align-items: center;
+}

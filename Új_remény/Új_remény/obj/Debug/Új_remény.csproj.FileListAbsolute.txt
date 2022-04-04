@@ -1,0 +1,7 @@
+C:\Users\Csató Csege Károly\Desktop\csege\Új_remény\Új_remény\bin\Debug\Új_remény.exe.config
+C:\Users\Csató Csege Károly\Desktop\csege\Új_remény\Új_remény\bin\Debug\Új_remény.exe
+C:\Users\Csató Csege Károly\Desktop\csege\Új_remény\Új_remény\bin\Debug\Új_remény.pdb
+C:\Users\Csató Csege Károly\Desktop\csege\Új_remény\Új_remény\obj\Debug\Új_remény.csprojAssemblyReference.cache
+C:\Users\Csató Csege Károly\Desktop\csege\Új_remény\Új_remény\obj\Debug\Új_remény.csproj.CoreCompileInputs.cache
+C:\Users\Csató Csege Károly\Desktop\csege\Új_remény\Új_remény\obj\Debug\Új_remény.exe
+C:\Users\Csató Csege Károly\Desktop\csege\Új_remény\Új_remény\obj\Debug\Új_remény.pdb

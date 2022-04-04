@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: darkorchid;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover {
+    color: cadetblue;
+    transition: 0.3s;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    display: flex;
+    list-style: none;
+    gap: 5px;
+    justify-content: center;
+}
+
+header{
+    background-color: aquamarine;
+}
+
+nav a, footer{
+    font-weight: bold;
+    color: brown;
+}

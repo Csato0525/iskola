@@ -1,0 +1,7 @@
+C:\Users\Csató Csege Károly\Desktop\csege\Tengeralattjáró\Tengeralattjáró\bin\Debug\Tengeralattjáró.exe.config
+C:\Users\Csató Csege Károly\Desktop\csege\Tengeralattjáró\Tengeralattjáró\bin\Debug\Tengeralattjáró.exe
+C:\Users\Csató Csege Károly\Desktop\csege\Tengeralattjáró\Tengeralattjáró\bin\Debug\Tengeralattjáró.pdb
+C:\Users\Csató Csege Károly\Desktop\csege\Tengeralattjáró\Tengeralattjáró\obj\Debug\Tengeralattjáró.csprojAssemblyReference.cache
+C:\Users\Csató Csege Károly\Desktop\csege\Tengeralattjáró\Tengeralattjáró\obj\Debug\Tengeralattjáró.csproj.CoreCompileInputs.cache
+C:\Users\Csató Csege Károly\Desktop\csege\Tengeralattjáró\Tengeralattjáró\obj\Debug\Tengeralattjáró.exe
+C:\Users\Csató Csege Károly\Desktop\csege\Tengeralattjáró\Tengeralattjáró\obj\Debug\Tengeralattjáró.pdb

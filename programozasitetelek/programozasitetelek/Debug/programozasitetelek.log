@@ -1,0 +1,7 @@
+﻿  programozasitetelek.cpp
+C:\Users\Csató Csege Károly\Desktop\csege\programozasitetelek\programozasitetelek\programozasitetelek.cpp(40,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Csató Csege Károly\Desktop\csege\programozasitetelek\programozasitetelek\programozasitetelek.cpp(49,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Csató Csege Károly\Desktop\csege\programozasitetelek\programozasitetelek\programozasitetelek.cpp(53,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Csató Csege Károly\Desktop\csege\programozasitetelek\programozasitetelek\programozasitetelek.cpp(69,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Csató Csege Károly\Desktop\csege\programozasitetelek\programozasitetelek\programozasitetelek.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+  programozasitetelek.vcxproj -> C:\Users\Csató Csege Károly\Desktop\csege\programozasitetelek\Debug\programozasitetelek.exe

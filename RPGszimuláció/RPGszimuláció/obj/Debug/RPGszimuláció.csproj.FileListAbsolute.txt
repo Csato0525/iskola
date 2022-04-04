@@ -1,0 +1,7 @@
+C:\Users\Csató Csege Károly\Desktop\csege\RPGszimuláció\RPGszimuláció\bin\Debug\RPGszimuláció.exe.config
+C:\Users\Csató Csege Károly\Desktop\csege\RPGszimuláció\RPGszimuláció\bin\Debug\RPGszimuláció.exe
+C:\Users\Csató Csege Károly\Desktop\csege\RPGszimuláció\RPGszimuláció\bin\Debug\RPGszimuláció.pdb
+C:\Users\Csató Csege Károly\Desktop\csege\RPGszimuláció\RPGszimuláció\obj\Debug\RPGszimuláció.csprojAssemblyReference.cache
+C:\Users\Csató Csege Károly\Desktop\csege\RPGszimuláció\RPGszimuláció\obj\Debug\RPGszimuláció.csproj.CoreCompileInputs.cache
+C:\Users\Csató Csege Károly\Desktop\csege\RPGszimuláció\RPGszimuláció\obj\Debug\RPGszimuláció.exe
+C:\Users\Csató Csege Károly\Desktop\csege\RPGszimuláció\RPGszimuláció\obj\Debug\RPGszimuláció.pdb
